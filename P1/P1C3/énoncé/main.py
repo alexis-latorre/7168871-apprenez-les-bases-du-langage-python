@@ -1,1 +1,2 @@
-## Écrivez votre code ici !
+print("J'apprends Python !")
+print(f"{17 + 35 * 2}")
