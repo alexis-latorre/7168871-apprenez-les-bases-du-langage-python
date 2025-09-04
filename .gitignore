@@ -3,3 +3,7 @@ P3/P3C3/énoncé/__pycache__/main.cpython-310.pyc
 .gitignore
 P3/P3C3/énoncé/__pycache__/tests.cpython-310.pyc
 .vscode/settings.json
+classes/P1/__pycache__/boite_a_outils.cpython-310.pyc
+classes/P1/__pycache__/marteau.cpython-310.pyc
+classes/P1/__pycache__/outil.cpython-310.pyc
+classes/P1/__pycache__/tournevis.cpython-310.pyc
